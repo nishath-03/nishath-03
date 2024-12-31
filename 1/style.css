@@ -1,0 +1,39 @@
+/* Apply the Dancing Script font to hero section */
+.hero-section {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+    padding: 80px 20px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+  }
+  
+  .hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  .hero-section p {
+    font-size: 1.2rem;
+    margin: 20px 0;
+  }
+  
+  /* Apply the Roboto font to the rest of the page */
+  body, .navbar, .footer, .btn-custom {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .btn-custom {
+    background-color: #ff4b2b;
+    color: white;
+    border: none;
+  }
+  
+  .btn-custom:hover {
+    background-color: #ff7b5c;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+  }
+  
