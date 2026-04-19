@@ -8,7 +8,7 @@ Check out my profiles: [Portfolio](http://nishath-githup.com) | [LeetCode](https
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,python,fastapi,c,cpp,arduino,tensorflow,linux,git,github" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,springboot,react,python,RestApi,arduino,ubuntu,git,github" alt="My Skills" />
   </a>
 </p>
 
