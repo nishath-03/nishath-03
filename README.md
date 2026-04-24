@@ -1,75 +1,27 @@
-<h1 align="center">Hey There! 👋</h1>
+# Hey There! 👋
 
-<p align="center">
-I'm <b>Nishath Arumugam</b> — Full-Stack Developer, ECE Engineer, and Tech Enthusiast.
+**I'm Nishath Arumugam** — Full-Stack Developer, Electronics & Communication Engineer, and Hardware Enthusiast.
+
+I build intelligent software architectures, design digital systems, and optimize for real-world performance.
+
+Check out my profiles: [Portfolio](http://nishath-githup.com) | [LeetCode](https://leetcode.com/u/nishath_dev/) | [LinkedIn](https://www.linkedin.com/in/nishath-a-721095278/)
+
+<p align="left">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,spring,react,python,nodejs,express,mongodb,arduino,ubuntu,git,github" alt="My Skills" />  </a>
 </p>
 
-<p align="center">
-I build scalable web applications, explore AI-based solutions, and design efficient systems for real-world problems.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Building%20Systems-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20VLSI%20%7C%20AI%20Agents-blue?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Mode-Always%20Learning-orange?style=for-the-badge" alt="Mode" />
 </p>
 
----
+### GitHub Stats ⚡
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="your-portfolio-link">🌍 Portfolio</a> •
-  <a href="https://leetcode.com/">🧠 LeetCode</a> •
-  <a href="https://linkedin.com/">💼 LinkedIn</a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishath-03&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Nishath's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishath-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,mongodb,html,css,tailwind,git,github" />
-</p>
-
----
-
-## 📊 Status
-
-<p align="center">
-  <img src="/mnt/data/image(52).png" alt="status bar" />
-</p>
-
-<p align="center">
-  <img src="/mnt/data/image(53).png" alt="status bar 2" />
-</p>
-
----
-
-## 🚀 What I'm Doing
-
-- 🔭 Building Full Stack Applications  
-- 🤖 Exploring AI-based projects  
-- 🧠 Practicing Data Structures & Algorithms  
-- ⚡ Learning System Design  
-
----
-
-## 🎯 Focus Areas
-
-- 💻 Full-Stack Development  
-- 🧠 AI & Intelligent Systems  
-- 🔐 Backend & System Design  
-- ⚡ Performance Optimization  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
-
----
-
-## ⚡ Motto
-
-> Always learning. Always building. 🚀
+> **Engineering systems that bridge the gap — from hardware logic to AI trust layers.**
