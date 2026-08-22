@@ -17,11 +17,5 @@ Check out my profiles: [Portfolio](http://nishath-githup.com) | [LeetCode](https
   <img src="https://img.shields.io/badge/Mode-Always%20Learning-orange?style=for-the-badge" alt="Mode" />
 </p>
 
-### GitHub Stats ⚡
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishath-03&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Nishath's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishath-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 > **Engineering systems that bridge the gap — from hardware logic to AI trust layers.**
