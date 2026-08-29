@@ -4,7 +4,7 @@
 
 I build intelligent software architectures, design digital systems, and optimize for real-world performance.
 
-Check out my profiles: [Portfolio](http://nishath-githup.com) | [LeetCode](https://leetcode.com/u/nishath_dev/) | [LinkedIn](https://www.linkedin.com/in/nishath-a-721095278/)
+Check out my profiles: [Portfolio]([http://nishath-githup.com](https://portfolio-jet-beta-1buxkjvnuc.vercel.app/)) | [LeetCode](https://leetcode.com/u/nishath_dev/) | [LinkedIn](https://www.linkedin.com/in/nishath-a-721095278/)
 
 <p align="left">
   <a href="https://skillicons.dev">
